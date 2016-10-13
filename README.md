@@ -1,1 +1,1 @@
-# Multi-level high efficinet endogeneity test for explanatory variables
+# Multi-level high efficient endogeneity test for explanatory variables
